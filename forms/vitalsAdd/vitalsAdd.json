@@ -1,0 +1,119 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "vitalsAdd",
+        "Elements",
+        "inptNames.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "vitalsAdd",
+        "Elements",
+        "lblVitals.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "vitalsAdd",
+        "Elements",
+        "inptBP.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "vitalsAdd",
+        "Elements",
+        "inptHR.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "vitalsAdd",
+        "Elements",
+        "inptTemp.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "vitalsAdd",
+        "Elements",
+        "inptPulse.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "vitalsAdd",
+        "Elements",
+        "btnEnter.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "vitalsAdd",
+        "Elements",
+        "txtAddVitals.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "vitalsAdd",
+        "Elements",
+        "hmbrMenuCopy3.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "vitalsAdd",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "vitalsAdd.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
